@@ -20,7 +20,7 @@ HELLO BRUTE FORCE INDONESIA
 """)
 print('___________________________________________________')
 print("""
-\033[36;1mTOOLS \033[32;1mBRUTEFORCE WP V.2.3\033[35;1m By Atengg377 \n""")
+\033[36;1mTOOLS \033[32;1mBRUTEFORCE WP V.2.3\033[35;1m By DestaX \n""")
 #
 #PAGE 
 #
